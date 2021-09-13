@@ -209,6 +209,7 @@ class ci_libro extends libros_ci
 	function hola(){
 		echo "hola";
 		echo "prueba";
+		echo "prueba";
 	}
 	function evt__formulario__modificacion($datos)
 	{
