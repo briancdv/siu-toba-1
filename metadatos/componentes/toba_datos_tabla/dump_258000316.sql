@@ -68,11 +68,11 @@ INSERT INTO apex_objeto_db_registros (objeto_proyecto, objeto, max_registros, mi
 -- apex_objeto_db_registros_col
 ------------------------------------------------------------
 
---- INICIO Grupo de desarrollo 258
+--- INICIO Grupo de desarrollo 264
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000669', --col_id
+	'264000298', --col_id
 	'id_libro', --columna
 	'E', --tipo
 	'1', --pk
@@ -86,7 +86,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000670', --col_id
+	'264000299', --col_id
 	'titulo', --columna
 	'C', --tipo
 	'0', --pk
@@ -100,7 +100,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000671', --col_id
+	'264000300', --col_id
 	'resumen', --columna
 	'C', --tipo
 	'0', --pk
@@ -114,7 +114,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000672', --col_id
+	'264000301', --col_id
 	'id_autor', --columna
 	'E', --tipo
 	'0', --pk
@@ -128,7 +128,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000673', --col_id
+	'264000302', --col_id
 	'id_editorial', --columna
 	'E', --tipo
 	'0', --pk
@@ -142,7 +142,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000674', --col_id
+	'264000303', --col_id
 	'estante', --columna
 	'E', --tipo
 	'0', --pk
@@ -156,7 +156,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000675', --col_id
+	'264000304', --col_id
 	'id_estado', --columna
 	'E', --tipo
 	'0', --pk
@@ -170,7 +170,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000704', --col_id
+	'264000305', --col_id
 	'adquicision_id', --columna
 	'E', --tipo
 	'0', --pk
@@ -184,7 +184,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000714', --col_id
+	'264000306', --col_id
 	'id_genero', --columna
 	'E', --tipo
 	'0', --pk
@@ -198,7 +198,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000715', --col_id
+	'264000307', --col_id
 	'isbn', --columna
 	'E', --tipo
 	'0', --pk
@@ -212,7 +212,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000716', --col_id
+	'264000308', --col_id
 	'anio', --columna
 	'E', --tipo
 	'0', --pk
@@ -226,7 +226,7 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
 	'libros', --objeto_proyecto
 	'258000316', --objeto
-	'258000726', --col_id
+	'264000309', --col_id
 	'ejemplar', --columna
 	'E', --tipo
 	'0', --pk
@@ -237,4 +237,18 @@ INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, colum
 	'0', --externa
 	'libro'  --tabla
 );
---- FIN Grupo de desarrollo 258
+INSERT INTO apex_objeto_db_registros_col (objeto_proyecto, objeto, col_id, columna, tipo, pk, secuencia, largo, no_nulo, no_nulo_db, externa, tabla) VALUES (
+	'libros', --objeto_proyecto
+	'258000316', --objeto
+	'264000310', --col_id
+	'foto', --columna
+	'C', --tipo
+	'0', --pk
+	'', --secuencia
+	NULL, --largo
+	NULL, --no_nulo
+	'0', --no_nulo_db
+	'0', --externa
+	'libro'  --tabla
+);
+--- FIN Grupo de desarrollo 264
