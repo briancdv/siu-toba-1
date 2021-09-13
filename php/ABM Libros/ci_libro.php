@@ -138,10 +138,7 @@ class ci_libro extends libros_ci
 		return $sftp;
 	}
 	function evt__formulario__alta($datos)
-	{
-	
-		
-			
+	{	
 		$nombre_img = "";
 		//delcaro el nombre de la variable a guardar
 		$foto_guardar = "";
@@ -209,7 +206,9 @@ class ci_libro extends libros_ci
 
 	}
 }
-
+	function hola(){
+		echo "hola";
+	}
 	function evt__formulario__modificacion($datos)
 	{
 
