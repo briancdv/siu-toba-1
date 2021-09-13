@@ -9,7 +9,6 @@ class abm_paraAndrea extends libros_ci
 	protected $s__filtro= null;
 	function get_list($where=''){
 		$sql=("SELECT
-		
 		t_p.id_persona,
 		t_pn.apyn,
 		t_pt.descripcion as id_descr_tipo,
