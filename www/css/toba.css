@@ -1,0 +1,51 @@
+/**
+	Incluir aquí las reglas css propias de este proyecto 
+*/
+.et-negrita{
+    font-weight: bold;
+    float: left;
+	margin-left: 4px;
+	margin-top: 3px;
+}
+
+.col-negrita{
+    font-weight: bold;
+    float: center;
+	padding-left: 4px;
+}
+
+.col-negrita-cen{
+    font-weight: bold;
+	text-align: center;
+}
+
+.col-negrita-der{
+    font-weight: bold;
+    padding-right: 4px;
+	text-align: right;
+}
+
+.col-bold_azul{
+    font-weight: bold;
+    float: center;
+	padding-left: 4px;
+	color: blue;
+}
+
+.col-bold_azul-cen{
+    font-weight: bold;
+	text-align: center;
+	color: blue;
+}
+
+.col-bold_azul-der{
+    font-weight: bold;
+    padding-right: 4px;
+	text-align: right;
+	color: blue;
+}
+
+.col-rojo-cen{
+    color: red;
+	text-align: center;
+}
